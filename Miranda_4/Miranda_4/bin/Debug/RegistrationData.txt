@@ -1,0 +1,102 @@
+REGISTRATION SUMMARY: 
+Registration Data:04/22/2021
+Name:bryan miranda
+Email Addressbryanmiranda1230@yahoo.com
+Date of Birth12/30/1997
+Classes Purchased: /r/n2D Animation/r/n
+Total Classes:1
+Price Per Class:99.95
+Total Price:99.95
+Payment Type:Cash
+Email Receipt Requested:No
+
+REGISTRATION SUMMARY: 
+Registration Data:04/22/2021
+Name:bryan miranda
+Email Addressbryanmiranda@yahoo.com
+Date of Birth12/30/1997
+Classes Purchased: 
+Casting/r/nCinematography/r/n
+Total Classes:2
+Price Per Class:79.95
+Total Price:159.90
+Payment Type:Check
+Email Receipt Requested:Yes
+
+REGISTRATION SUMMARY: 
+Registration Data:04/22/2021
+Name:bryan miranda
+Email Addressbryanmiranda@yahoo.com
+Date of Birth12/30/1997
+Classes Purchased: 
+2D Animation/r/n3D Animation/r/nCharacter Design/r/nMatte Painting/r/n
+Total Classes:4
+Price Per Class:99.95
+Total Price:399.80
+Payment Type:Cash
+Email Receipt Requested:No
+
+REGISTRATION SUMMARY: 
+Registration Data:04/22/2021
+Name:sdaf asdfas
+Email Addresssdafsadf
+Date of Birth01/23/0199
+Classes Purchased: 
+2D Animation/r/n3D Animation/r/nCharacter Design/r/n
+Total Classes:3
+Price Per Class:99.95
+Total Price:299.85
+Payment Type:Check
+Email Receipt Requested:No
+
+REGISTRATION SUMMARY: 
+Registration Data:04/22/2021
+Name:bryada asdas
+Email Addresssafasfdsfd
+Date of Birth12/30/1989
+Classes Purchased: 
+3D Animation
+Character Design
+Digital Editing
+
+Total Classes:3
+Price Per Class:99.95
+Total Price:299.85
+Payment Type:Cash
+Email Receipt Requested:No
+
+REGISTRATION SUMMARY: 
+Registration Data:04/22/2021
+Name:asdfsadfsdf asdfasdf
+Email Addressbryanmiranadad!
+Date of Birth12/30/1997
+Status:Actor
+Classes Purchased: 
+Casting
+Directing
+Lighting
+
+Total Classes:3
+Price Per Class:79.95
+Total Price:239.85
+Payment Type:Cash
+Email Receipt Requested:Yes
+
+REGISTRATION SUMMARY: 
+Registration Data:04/22/2021
+Name:bryan  miranda
+Email Addressbryanmiranda1230@yahoo.com
+Date of Birth12/30/1997
+Status:Animator
+Classes Purchased: 
+2D Animation
+Character Design
+Digital Editing
+Particle Dynamics
+
+Total Classes:4
+Price Per Class:99.95
+Total Price:399.80
+Payment Type:Cash
+Email Receipt Requested:Yes
+

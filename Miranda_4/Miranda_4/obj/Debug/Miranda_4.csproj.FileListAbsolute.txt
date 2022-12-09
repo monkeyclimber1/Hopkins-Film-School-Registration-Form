@@ -1,0 +1,11 @@
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\bin\Debug\Miranda_4.exe.config
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\bin\Debug\Miranda_4.exe
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\bin\Debug\Miranda_4.pdb
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\obj\Debug\Miranda_4.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\obj\Debug\Miranda_4.Properties.Resources.resources
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\obj\Debug\Miranda_4.csproj.GenerateResource.cache
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\obj\Debug\Miranda_4.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\obj\Debug\Miranda_4.exe
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\obj\Debug\Miranda_4.pdb
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\obj\Debug\Miranda_4.RegistrationForm.resources
+C:\Users\Bryan\Desktop\ISM3232\Miranda_4\Miranda_4\obj\Debug\Miranda_4.AboutForm.resources
